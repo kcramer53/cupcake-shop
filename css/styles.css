@@ -9,22 +9,62 @@ p.intro{
 }
 body{
   text-align: left;
-  margin-left: 50px;
+  margin-left: 40px;
+  margin-right: 40px;
   background-color: #ccccff;
 }
 li{
 justify-content: center;
 }
+h3{
 
+
+}
+#email{
+margin-top: 120px;
+}
+#chop1{
+  width: 50%;
+  height: 100%;
+  margin-bottom: 30px;
+}
+#cupcake2{
+  width: 30%;
+  margin: auto;
+  float: left;
+  margin-right: 30px;
+}
 .important{
   font-style: oblique;
 }
 
 #cupcake1{
-  margin: auto;
-  max-width: 100%;
-  max-height: 30%;
+  margin-bottom: 30px;
+  width: 50%;
+  height: 100%;
+  padding-right: 50px;
 }
-{
+.infosection{
+  width: 80%;
+}
 
+.importantsentence{
+  color: darkgreen;
+}
+.firstlist{
+  margin-top: 50px;
+}
+
+.secondlist{
+  margin-right: 30px;
+}
+.column1{
+  height: 300px;
+  width: 50%;
+  float: left;
+}
+.column2{
+  height: 300px;
+  width: 50%;
+  float: right;
 }
