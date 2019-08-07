@@ -1,0 +1,30 @@
+p.intro{
+  width: 50%;
+  font-style: italic;
+}
+.author{
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+body{
+  text-align: left;
+  margin-left: 50px;
+  background-color: #ccccff;
+}
+li{
+justify-content: center;
+}
+
+.important{
+  font-style: oblique;
+}
+
+#cupcake1{
+  margin: auto;
+  max-width: 100%;
+  max-height: 30%;
+}
+{
+
+}
