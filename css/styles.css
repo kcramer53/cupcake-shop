@@ -23,30 +23,19 @@ h3{
 #email{
 margin-top: 120px;
 }
-#chop1{
-  width: 50%;
-  height: 100%;
-  margin-bottom: 30px;
-}
 #cupcake2{
   width: 30%;
   margin: auto;
   float: left;
   margin-right: 30px;
 }
-
-#cupcake1{
-  margin-bottom: 30px;
-  width: 50%;
-  height: 100%;
-  padding-right: 50px;
-}
-
 .incolumnpic{
+  border: 5px solid darkgreen;
+  padding: 5px;
   width: 50%;
   height: 100%;
-  padding-right: 50px;
 }
+
 .important{
   font-style: oblique;
 }
@@ -66,9 +55,11 @@ margin-top: 120px;
   height: 300px;
   width: 50%;
   float: left;
+  margin-bottom: 50px;
 }
 .column2{
   height: 300px;
   width: 50%;
   float: right;
+  margin-bottom: 50px;
 }
